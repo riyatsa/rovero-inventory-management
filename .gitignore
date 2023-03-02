@@ -1,2 +1,5 @@
 vendor/*
 uploads/*
+admin/application/config/database.php
+franchise/application/config/database.php
+store-user/application/config/database.php
