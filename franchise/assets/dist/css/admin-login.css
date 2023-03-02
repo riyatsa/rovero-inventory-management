@@ -1,0 +1,81 @@
+.login-page, .register-page {
+	background: #fa423b
+}
+
+.login-card-body {
+	/*border-radius: 5px;*/
+	box-shadow: 0px 3px 36px #00000017;
+border-radius: 9px;
+opacity: 1;
+}
+
+.login-box-msg {
+	color: #1D3327;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 15px;
+	background: transparent url('assets/dist/img/sidebar-logo/001.jpg') 0% 0% no-repeat padding-box;
+	border-radius: 14px;
+	opacity: 1;
+}
+
+
+.logo-img {
+	/*height: 160px;*/
+	width: 300px;
+}
+
+.input-group-append, .login-input, .login-input:focus, .login-input:active {
+	background: #ECECEC;
+}
+
+.input-group-text {
+	border: unset;
+}
+
+.login-input {
+	border: unset;
+}
+
+.input-group {
+	border-radius: 5px;
+}
+
+.fa-login, .login-input {
+	font-size: 15px;
+}
+
+.form-control {
+	height: unset;
+}
+
+.login-input {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 3px 6px #00000017;
+	border-radius: 8px;
+	opacity: 1;
+}
+
+.forgot-password-link {
+	color: #A2A2A2;
+	font-size: 12px;
+}
+
+.btn-login {
+	/*background: #1D3327;*/
+	padding: 9px 90px;
+	font-size: 12px;
+	margin-top: 20px;
+	/*top: 640px;*/
+/*left: 745px;*/
+/*width: 430px;*/
+/*height: 69px;*/
+background: var(--unnamed-color-2f2f8d) 0% 0% no-repeat padding-box;
+background: #fa423b 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 8px;
+opacity: 1;
+}

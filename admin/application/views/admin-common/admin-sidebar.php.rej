@@ -1,0 +1,14 @@
+diff a/admin/application/views/admin-common/admin-sidebar.php b/admin/application/views/admin-common/admin-sidebar.php	(rejected hunks)
+@@ -94,7 +94,12 @@
+      <!-- Brand Logo -->
+      <a href="<?php echo base_url().'?/admin-panel' ?>" class="brand-link text-center">
+        <!-- <img class="w-100" src="<?php echo base_url()?>assets/dist/img/sidebar-logo/001.jpg" alt="Logo" class="brand-image"> -->
+++<<<<<<< HEAD
+ +      <span class="brand-link-span">Rover</span>
+++=======
++       <span class="brand-link-span">R</span>
++       <span class="brand-text font-weight-light">&nbsp;</span>
+++>>>>>>> d5211028 (commited)
+      </a>
+  
+      <!-- Sidebar -->
